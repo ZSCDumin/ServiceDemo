@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidThreadDemo/AndroidThreadDemo.iml" filepath="$PROJECT_DIR$/AndroidThreadDemo/AndroidThreadDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceDemo.iml" filepath="$PROJECT_DIR$/ServiceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicebastpractice/servicebastpractice.iml" filepath="$PROJECT_DIR$/servicebastpractice/servicebastpractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicetest/servicetest.iml" filepath="$PROJECT_DIR$/servicetest/servicetest.iml" />
+    </modules>
+  </component>
+</project>
